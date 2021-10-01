@@ -1,12 +1,17 @@
 *
 {
+    
+}
+
+body {
+    text-align: center;
     background-color: rgb(183, 247, 183);
 }
 
-#nav
+.nav
 {
-    background-color: green;
-    max-height: fit-content;
+    text-align: center;
+    
 }
 
 .center 

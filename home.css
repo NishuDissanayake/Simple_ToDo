@@ -1,0 +1,10 @@
+*
+{
+    background-color: rgb(183, 247, 183);
+}
+
+#nav
+{
+    background-color: green;
+    max-height: fit-content;
+}

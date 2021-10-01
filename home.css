@@ -1,18 +1,14 @@
-*
-{
-    background-color: rgb(247, 212, 183);
+* {
+  margin: 0px;
+  padding: 0px;
 }
 
-#nav
-{
-    background-color: green;
-    max-height: fit-content;
+.nav-brand {
+    text-decoration: none;
+    color: black;
 }
 
-.center 
-{
-    text-align: center;
-    align-items: center;
-    justify-content: center;
-    display: flex;
+#logo {
+  width: 50px;
+  height: 50px;
 }

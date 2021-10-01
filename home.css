@@ -8,3 +8,11 @@
     background-color: green;
     max-height: fit-content;
 }
+
+.center 
+{
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+}
